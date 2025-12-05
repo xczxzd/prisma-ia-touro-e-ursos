@@ -1,0 +1,7 @@
+{
+  "name": "Prisma AI Signals & Chat",
+  "description": "An advanced binary options signal generator that analyzes candlestick patterns to provide trading signals. It also features an integrated AI chatbot, powered by Gemini, to answer user questions about trading strategies and market analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
